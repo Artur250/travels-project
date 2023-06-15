@@ -1,0 +1,42 @@
+.section1-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    margin-left: 0px;
+}
+.section1-text {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    row-gap: 29px;
+}
+.section1-title1 span {
+    color: #db6300;
+}
+.section1-title1 {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 80px;
+   /* or 160% */
+   /* black / 1 */
+    color: #474747;
+}
+.section1-subtitle2 {
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 38px;
+   /* or 146% */
+   /* black / 1 */
+    color: #474747;
+}
+.section1-subtitle3 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+   /* or 162% */
+   /* black / 2 */
+    color: #666;
+}
